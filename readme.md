@@ -1,3 +1,5 @@
+⚠️ Esta é a versão legada em Python. Para a versão atual em Next.js, veja a branch main.
+
 # Sistema de BID Logístico (SaaS Enterprise)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
